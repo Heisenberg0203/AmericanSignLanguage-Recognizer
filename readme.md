@@ -1,5 +1,8 @@
+Different CNN structures for classifying American Hand Signs along with their training and testing accuracies:
+
+
 |Model|Number of Convolution layers|Augmentation|Batch Normalisation|Dropout|Training Accuracy|Test Accuracy|
-|-----|----------------------------|------------|-------------------|-------|-----------------|-------------|
+|:-----:|:----------------------------:|:------------:|:-------------------:|:-------:|:-----------------:|:-------------:|
 |model1|1|yes|yes|no|97.52|97.71|
 |model2|2|no|no|no|100|91.06|
 |model3|2|no|yes|no|100|95.60|
