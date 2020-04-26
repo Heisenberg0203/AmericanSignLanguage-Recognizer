@@ -1,3 +1,4 @@
+For more reference, and related explaination please refer to medium article: [American Sign Langugage recognition using CNN](https://medium.com/@rushikesh0203/american-sign-language-recognition-using-cnn-36910b86d651)
 Different CNN structures for classifying American Hand Signs along with their training and testing accuracies:
 
 
